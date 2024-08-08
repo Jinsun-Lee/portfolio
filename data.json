@@ -41,6 +41,7 @@
     {
       "id": 1,
       "name": "3학년",
+      "projTitle": "타이틀",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "repoUrl": "https://github.com/Jinsun-Lee/Rail",
       "isTeam": true,
@@ -50,6 +51,7 @@
     {
       "id": 2,
       "name": "4학년",
+      "projTitle": "타이틀",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "repoUrl": "https://github.com/Jinsun-Lee/Guidance-Robot",
       "isTeam": true,
@@ -59,6 +61,7 @@
     {
       "id": 3,
       "name": "석사",
+      "projTitle": "타이틀",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
