@@ -34,7 +34,7 @@
       "description": "낯선 사람이 따라오는 등 긴급 상황이 발생하면 문을 빠르게 열고 닫을 수 있는 긴급 상황을 인식하고 대응할 수 있는 도어락 개발",
       "repoUrl": "https://github.com/Jinsun-Lee/Smart-Door-Lock",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
+      "period": ["2020. 03", "2020. 11"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
     {
@@ -110,7 +110,7 @@
       "name": "Collision Avoidance Approach for Autonomous Driving Using Instance Segmentation",
       "period": ["2023. 09. 01", "2024. 02. 29"],
       "description": "J. Lee, H. Hong and J. W. Jeon, 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE), Ulsan, Korea, Republic of, 2024, pp. 1-4, doi: 10.1109/ISIE54533.2024.10595687."
-    },
+    }
     
   ],
   
