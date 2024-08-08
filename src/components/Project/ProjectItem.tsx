@@ -43,7 +43,7 @@ const ProjectItem = ({
       <div className="md:border-GRAY_LIGHT md:border-solid md:border-l-[1px] md:pl-4 markdown flex flex-col w-full gap-2">
         <div>
           //<blockquote className="whitespace-pre-wrap">{`${description}`}</blockquote>
-          <h3>`${description}`</h3>
+          <h3>{description}</h3>
           <div className="flex gap-1 flex-wrap">
             {stack.map((stack) => (
               <span
