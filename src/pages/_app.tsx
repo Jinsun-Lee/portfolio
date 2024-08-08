@@ -9,11 +9,11 @@ import type { AppProps } from "next/app";
 const DEFAULT_SEO = {
   title: "이진선 | Automation Systems Dev",
   description: "안녕하세요, 지능형 자동화 시스템 개발자 이진선입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://012vision.tistory.com/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    url: "https://012vision.tistory.com/",
     title: "이진선 | Automation Systems Dev",
     site_name: "이진선 | Automation Systems Dev",
     images: [
