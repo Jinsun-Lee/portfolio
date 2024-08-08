@@ -30,7 +30,7 @@
   "project": [
     {
       "id": 0,
-      "name": "2학년",
+      "name": "2학년 - 블록체인 기반 긴급 상황 예방 도어락 서비스",
       "description": "낯선 사람이 따라오는 등 긴급 상황이 발생하면 문을 빠르게 열고 닫을 수 있는 긴급 상황을 인식하고 대응할 수 있는 도어락 개발",
       "repoUrl": "https://github.com/Jinsun-Lee/Smart-Door-Lock",
       "isTeam": true,
