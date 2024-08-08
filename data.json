@@ -46,22 +46,23 @@
       "repoUrl": "https://github.com/Jinsun-Lee/Rail",
       "isTeam": true,
       "period": ["2022. 10", "2022. 11"],
-      "stack": ["JavaScript", "HTML/CSS"]
+      "stack": ["ESL HITECH", "STM", "Nucleo F410RB","UART", "Android Studio"]
     },
     {
       "id": 2,
       "name": "4학년",
       "projTitle": "시각장애인의 보행 보조를 위한 자율 주행 로봇",
-      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "description": "내",
+      "webUrl": "https://012vision.tistory.com/617",
       "repoUrl": "https://github.com/Jinsun-Lee/Guidance-Robot",
       "isTeam": true,
-      "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "period": ["2022. 02", "2022. 12"],
+      "stack": ["동서울대학교", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
     {
       "id": 3,
       "name": "석사",
-      "projTitle": "타이틀",
+      "projTitle": "소프트웨어를 중심으로 업데이트할 수 있는 서비스 지향 아키텍쳐 설계",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "webUrl": "https://github.com/sjoleee/",
       "repoUrl": "https://github.com/sjoleee/",
@@ -69,36 +70,51 @@
       "period": ["2022. 07", "2022. 09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
+
+
+    
     {
       "id": 0,
-      "name": "개인 프로젝트 0",
-      "projTitle": "타이틀",
+      "name": "개인",
+      "projTitle": "Bookmark-Cleaner",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "repoUrl": "https://github.com/sjoleee/",
+      "webUrl": "https://012vision.tistory.com/70",
+      "repoUrl": "https://github.com/Jinsun-Lee/Project_KDD",
       "isTeam": false,
       "period": ["2022. 07", "2022. 09"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "stack": ["Firebase", "Android Studio", "Python", "Web Crawling", "kkma", "Dialogflow", "BERT"]
     },
     {
       "id": 1,
-      "name": "개인 프로젝트 1",
-      "projTitle": "타이틀",
+      "name": "개인",
+      "projTitle": "zonal_architecture",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "repoUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/Jinsun-Lee/zonal_architecture",
       "isTeam": false,
-      "period": ["2022. 07", "2022. 09"],
+      "period": ["2024. 03. 04", "2024. 03. 15"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
     {
       "id": 2,
-      "name": "개인 프로젝트 2",
-      "projTitle": "타이틀",
+      "name": "개인",
+      "projTitle": "Distributed Systems (COS-418)",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "repoUrl": "https://github.com/sjoleee/",
+      "repoUrl": "https://github.com/Jinsun-Lee/distributed_systems",
+      "isTeam": false,
+      "period": ["2024. 05. 28", "2024. 06. 05"],
+      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+    },
+    {
+      "id": 3,
+      "name": "개인",
+      "projTitle": "Distributed Systems (COS-418)",
+      "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
+      "repoUrl": "https://github.com/Jinsun-Lee/distributed_systems",
       "isTeam": false,
       "period": ["2022. 07", "2022. 09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     }
+    
   
   ],
 
@@ -118,7 +134,7 @@
     {
       "id": 2,
       "name": "시각장애인의 보행 보조를 위한 SLAM 기반 자율주행 로봇",
-      "period": ["2023. 09. 01", "2024. 02. 29"],
+      "period": ["2023. 09. 01", "2020. 02. 17"],
       "description": "이진선, 박주연, 우승탁, 심현민, 제 16회 한국재활복지공학회 추계정기학술대회, (2022)"
     },
     {
@@ -126,6 +142,7 @@
       "name": "A PDU-based Ethernet Routing using CAN Compression",
       "period": ["2023. 09. 01", "2024. 02. 29"],
       "description": "J. Lee, S. B. Oh, Y. Do and J. W. Jeon, 2023 International Technical Conference on Circuits/Systems, Computers, and Communications (ITC-CSCC), Jeju, Korea, Republic of, 2023, pp. 1-4, doi: 10.1109/ITC-CSCC58803.2023.10212847."
+      https://github.com/Jinsun-Lee/CAN_Compression_Paper
     },
     {
       "id": 4,
@@ -184,6 +201,13 @@
     }
   ],
 
+
+  2019 년도 2학기 / 성적 우수 장학금
+  2020 년도 1학기 / 성적 우수 장학금, (재)삼송장장학회
+  2020년도 2학기 / (재)삼송장장학회
+  2021 년도 1학기 / 성적 우수 장학금
+  전자공학과 / 2021 년도 2학기 /
+  
   "award": [
     {
       "id": 0,
