@@ -3,9 +3,9 @@
     "title": "Jinsun Lee"
   },
 
-  // Personal Information
+
   "information": {
-    "name": "이진선",
+    "name": "이진선",   // Personal Information
     "contact": [
       { "id": 0, "name": "Email", "href": "withire32@kakao.com", "isEmail": true },
       { "id": 1, "name": "Github", "href": "https://github.com/Jinsun-Lee" },
@@ -51,8 +51,8 @@
     }
   ],
 
-  // 각종 경험, 대회 등의 활동에 대해 작성하는 곳입니다.
-  "activity": [
+
+  "activity": [   // 각종 경험, 대회 등의 활동에 대해 작성하는 곳입니다.
     {
       "id": 0,
       "name": "첫번째 활동", // 활동명을 적어주세요.
