@@ -18,6 +18,7 @@ export interface WorkExperienceProps {
 export interface ProjectProps {
   id: number;
   name: string;
+  projTitle: string;
   description: string;
   repoUrl: string;
   webUrl?: string;
