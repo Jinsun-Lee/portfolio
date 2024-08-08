@@ -8,6 +8,7 @@ import { ProjectProps } from "@/types";
 
 const ProjectItem = ({
   name,
+  projTitle,
   description,
   repoUrl,
   webUrl,
@@ -42,6 +43,7 @@ const ProjectItem = ({
       </div>
       <div className="md:border-GRAY_LIGHT md:border-solid md:border-l-[1px] md:pl-4 markdown flex flex-col w-full gap-2">
         <div>
+          <h3>{projTitle}</h3>
           <blockquote className="whitespace-pre-wrap">{`${description}`}</blockquote>
           <div className="flex gap-1 flex-wrap">
             {stack.map((stack) => (
