@@ -71,7 +71,7 @@
     },
     {
       "name": "개인 프로젝트 1",
-      "isTeam": false,
+      "isTeam": false
     },
     {
       "name": "개인 프로젝트 2",
@@ -85,7 +85,7 @@
     },
     {
       "name": "개인 프로젝트 3",
-      "isTeam": false,
+      "isTeam": false
     }
   
     
