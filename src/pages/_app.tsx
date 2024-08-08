@@ -34,7 +34,7 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "홍길동 | Front-End Dev",
+      content: "이진선 | Automation Systems Dev",
     },
     {
       name: "msapplication-tooltip",
