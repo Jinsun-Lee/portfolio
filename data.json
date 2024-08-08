@@ -36,7 +36,7 @@
       "repoUrl": "https://github.com/Jinsun-Lee/Smart-Door-Lock",
       "isTeam": true,
       "period": ["2020. 03", "2020. 11"],
-      "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
+      "stack": ["한국정보산업연합회", "React.js", "JavaScript", "styled-components", "Recoil"]
     },
     {
       "id": 1,
@@ -75,7 +75,7 @@
   "activity": [
     {
       "id": 0,
-      "name": "딥러닝 기반 1인 가구 범죄 예방을 위한 긴급 상황 인식 스마트 도어록 개발",
+      "name": "*딥러닝 기반 1인 가구 범죄 예방을 위한 긴급 상황 인식 스마트 도어록 개발",
       "period": ["2023. 09", "2023. 12"],
       "description": "이진선, 한지은, 유현아, 박주연, 김형훈, 심현민, 한국정보처리학회 학술대회논문집, 27권 2호, (2020)"
     },
