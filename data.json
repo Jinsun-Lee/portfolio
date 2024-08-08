@@ -1,14 +1,15 @@
 {
   "resumeTitle": {
-    "title": "Hong Gil Dong"
+    "title": "Jinsun Lee"
   },
 
+  // Personal Information
   "information": {
-    "name": "홍길동",
+    "name": "이진선",
     "contact": [
-      { "id": 0, "name": "Email", "href": "honggildong@gmail.com", "isEmail": true },
-      { "id": 1, "name": "Github", "href": "https://github.com/honggildong" },
-      { "id": 2, "name": "Blog", "href": "https://velog.io/@honggildong" }
+      { "id": 0, "name": "Email", "href": "withire32@kakao.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/Jinsun-Lee" },
+      { "id": 2, "name": "Blog", "href": "https://012vision.tistory.com" }
     ]
   },
 
@@ -32,8 +33,8 @@
       "id": 0,
       "name": "첫번째 팀 프로젝트",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
-      "webUrl": "https://github.com/sjoleee/",
-      "repoUrl": "https://github.com/sjoleee/",
+      "webUrl": "https://github.com/sjoleee/", // 릴리즈된 페이지나 앱스토어 등 원하는 웹페이지 링크가 생성됩니다. 없으면 제거!
+      "repoUrl": "https://github.com/sjoleee/", // 깃허브 레포지토리 링크가 생성됩니다. 없으면 제거!
       "isTeam": true,
       "period": ["2022. 07", "2022. 09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
@@ -50,11 +51,12 @@
     }
   ],
 
+  // 각종 경험, 대회 등의 활동에 대해 작성하는 곳입니다.
   "activity": [
     {
       "id": 0,
-      "name": "첫번째 활동",
-      "period": ["2022. 06", "2022. 08"],
+      "name": "첫번째 활동", // 활동명을 적어주세요.
+      "period": ["2022. 06", "2022. 08"], // 활동 기간을 적어주세요.
       "description": "첫번째 활동에 대한 간략한 설명"
     },
     {
@@ -64,32 +66,38 @@
       "description": "두번째 활동에 대한 간략한 설명"
     }
   ],
-
+  
   "education": [
     {
       "id": 0,
-      "name": "첫번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "name": "고등학교",
+      "period": ["2016. 03. 02", "2019. 01. 11"],
+      "description": "경기 광주중앙고등학교 인문계 졸업"
     },
     {
       "id": 1,
-      "name": "두번째 교육",
-      "period": ["2013. 02", "2020. 02"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "name": "대학교",
+      "period": ["2019. 03", "2023. 02. 17"],
+      "description": "경기 동서울대학교 전자과 졸업"
+    },
+    {
+      "id": 2,
+      "name": "대학원",
+      "period": ["2023. 02. 27", "2025. 02"],
+      "description": "경기 성균관대학교 전자전기컴퓨터공학과 / 전재욱 Automation Lab"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "TOEIC 1000점",
-      "date": "2019. 07. 28",
-      "organizer": "ETS"
+      "name": "mos 2016 Powerpoint",
+      "date": "2020. 12. 22",
+      "organizer": "Microsoft"
     },
     {
       "id": 1,
-      "name": "OPIC IH",
+      "name": "OPIC IM3",
       "date": "2019. 07. 28",
       "organizer": "ETS"
     }
