@@ -3,6 +3,8 @@
     "title": "Jinsun Lee"
   },
 
+  
+
   "information": {
     "name": "이진선",
     "contact": [
@@ -12,6 +14,8 @@
     ]
   },
 
+
+  
   "workExperience": [
     {
       "id": 0,
@@ -27,10 +31,12 @@
     }
   ],
 
+  
+
   "project": [
     {
       "id": 0,
-      "name": "2학년",
+      "name": "2020년, 2학년",
       "projTitle": "블록체인 기반 긴급 상황 예방 도어락 서비스",
       "description": "낯선 사람이 따라오는 등 긴급 상황이 발생하면 문을 빠르게 열고 닫을 수 있는 긴급 상황을 인식하고 대응할 수 있는 도어락 개발",
       "repoUrl": "https://github.com/Jinsun-Lee/Smart-Door-Lock",
@@ -40,7 +46,7 @@
     },
     {
       "id": 1,
-      "name": "3학년",
+      "name": "2021년, 3학년",
       "projTitle": "철도 레일의 마모도 측정 기구물 시제품 개발",
       "description": "프로젝트에 대한 간단한 설명을 적을 수 있습니다. 어떤 프로젝트인지 주제나 강조하고 싶은 부분을 적어보세요.",
       "repoUrl": "https://github.com/Jinsun-Lee/Rail",
@@ -50,7 +56,7 @@
     },
     {
       "id": 2,
-      "name": "4학년",
+      "name": "2022년, 4학년",
       "projTitle": "시각장애인의 보행 보조를 위한 자율 주행 로봇",
       "description": "내",
       "webUrl": "https://012vision.tistory.com/617",
@@ -72,6 +78,7 @@
     },
 
 
+    
     
     {
       "id": 0,
@@ -114,6 +121,8 @@
       "period": ["2022. 07", "2022. 09"],
       "stack": ["사용한 기술을 적어주세요", "React.js", "JavaScript", "styled-components", "Recoil"]
     }
+
+
     
 
   ],
@@ -163,6 +172,9 @@
     }
     
   ],
+
+
+
   
   "education": [
     {
@@ -185,6 +197,8 @@
     }
   ],
 
+
+  
   "certificate": [
     {
       "id": 0,
@@ -204,6 +218,35 @@
   
   
   "award": [
+    {
+      "id": 0,
+      "name": "2020 이브와 공모전 동상",
+      "date": "2020. 12. 04",
+      "organizer": "한글과컴퓨터",
+      "description": "우수 프로젝트 선정(프로젝트명: 블록체인 기반 긴급 상황 예방 도어락 서비스)"
+    },
+    {
+      "id": 1,
+      "name": "2020 이브와 ICT 멘토링 학술대회 대상",
+      "date": "2020. 12. 04",
+      "organizer": "IT여성기업인협회 ",
+      "description": "논문명: 딥러닝 기반 1인 가구 범죄 예방을 위한 긴급 상황 인식 스마트 도어록 개발"
+    },
+    {
+      "id": 0,
+      "name": "2020 이브와 공모전 동상",
+      "date": "2020. 12. 04",
+      "organizer": "한글과컴퓨터",
+      "description": "우수 프로젝트 선정(프로젝트명: 블록체인 기반 긴급 상황 예방 도어락 서비스)"
+    },
+    {
+      "id": 1,
+      "name": "2020 이브와 ICT 멘토링 학술대회 대상",
+      "date": "2020. 12. 04",
+      "organizer": "IT여성기업인협회 ",
+      "description": "논문명: 딥러닝 기반 1인 가구 범죄 예방을 위한 긴급 상황 인식 스마트 도어록 개발"
+    },
+
     {
       "id": 0,
       "name": "2020 이브와 공모전 동상",
